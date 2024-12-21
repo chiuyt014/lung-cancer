@@ -10,9 +10,9 @@ Types:
 1.Basic Block (2 convolutional layers)  
 2.Bottleneck Block (3 convolutional layers)
 
+To execute the program, only need to select one combinations.  
 Residual Block Combinations
-Standard: CBACB+A
-	
+Standard: CBACB+A  
 Variations:  
 CBAC+BA  
 CBACBA+  
