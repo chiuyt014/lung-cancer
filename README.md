@@ -1,4 +1,4 @@
-ResNet (Residual Network):Proposed by Kaiming He et al. (2015) to solve vanishing gradient problems
+ResNet (Residual Network):Proposed by Kaiming He et al. to solve vanishing gradient problems
 
 Key Features:  
 1.Residual Blocks: Learn identity mappings with skip connections to prevent vanishing gradients  
